@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 public class UserDto {
 
     //data transfer objects
-    @Id
     private int id;
     private String name;
 
